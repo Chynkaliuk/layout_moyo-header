@@ -29,7 +29,7 @@ body {
   line-height: 0; /* Remove any line-height influence */
 }
 
-.logo img {
+.logo-image {
   width: 40px; /* Ensure the image is exactly 40x40 */
   height: 40px;
 }
@@ -61,7 +61,7 @@ body {
   align-items: center;
   justify-content: center;
   height: 60px; /* Updated to match header height for vertical centering */
-  font-family: Roboto, sans-serif;
+  font-family: Roboto, Arial, sans-serif;
   font-weight: 500;
   font-size: 12px;
   line-height: 100%;
